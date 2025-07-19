@@ -5,7 +5,7 @@
 ---
 
 - 🔭 Currently working at **CIPIO.ai** as a Software Engineer
-- 🌍 Based in **Ahmedabad, Gujarat, India**
+- 🌍 Based in **India**
 - 📫 Reach me at [alva.murli@gmail.com](mailto:alva.murli@gmail.com)
 - 🧠 Learning and building scalable **Data Pipelines** and **AI-driven Solutions**
 - 🏆 2nd Runner-Up – Hackathon (Q2 2024), CIPIO Team Excellence & Innovation Award Winner
@@ -34,8 +34,8 @@
 *Jun 2022 – Present*
 - Built scalable REST APIs using Django & Tornado
 - Engineered multi-cloud infrastructures across AWS, Azure & GCP
-- Boosted data pipeline efficiency by 30% (BigQuery optimization)
-- Deployed ML models with multi-agent architecture
+- Boosted data pipeline efficiency by 30% (BigQuery optimisation)
+- Deployed ML models with a multi-agent architecture
 - Developed real-time NoSQL + GraphQL systems
 - Integrated APIs with Stripe, Gmail & Google Drive
 
